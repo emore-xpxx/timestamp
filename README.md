@@ -14,13 +14,17 @@ apt install nodejs npm # debian/ubuntu/mint/lmde ...
 
 2. Download `timestamp.js` file:
 ```sh
-# TBA
+curl -LO https://github.com/emore-xpxx/timestamp/releases/download/1.0/timestamp.js # curl
+wget https://github.com/emore-xpxx/timestamp/releases/download/1.0/timestamp.js # wget
 ```
 
 3. Run!
 ```sh
 node timestamp.js
 ```
+
+## Images
+![1.png](assets/1.png)
 
 ## License
 **MIT** (**X11**)
