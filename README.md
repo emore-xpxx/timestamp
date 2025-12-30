@@ -27,4 +27,4 @@ node timestamp.js
 ![1.png](assets/1.png)
 
 ## License
-**MIT** (**X11**)
+**MIT** (**X11**) See [LICENSE.md](LICENSE.md) for details.
